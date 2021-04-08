@@ -36,7 +36,6 @@ public interface SimpleCalculator {
    )
    */
   void insertPlus();
-
   /**
    Adds a minus order ("-").
    Calculator should ignore if this call came after another order
